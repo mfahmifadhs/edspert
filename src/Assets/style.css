@@ -1,0 +1,27 @@
+.container {
+   margin: 2vh;
+}
+
+a {
+   text-decoration: none;
+}
+
+.cardBodyMain {
+   background-color: powderblue;
+   border-radius: 2px;
+}
+
+.cardBodyMain h3{
+   font-size: 40px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-top: 200px;
+}
+
+.cardLogin {
+   width: 200%;
+   background-color: powderblue;
+}
+
+.cardBodyLogin {
+   margin: 1vh;
+}
